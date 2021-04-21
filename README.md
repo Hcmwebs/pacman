@@ -1,0 +1,1 @@
+This is a pacman project inspired and taught by <a href="https://github.com/weibenfalk" target="_blank">Weibenfalk</a>. In his tutorial,I have learnt a lot about constructor classes and important and widely use Javascript methods like, forEach(), bind(), just to mention but a few. My special gratitude to him.
